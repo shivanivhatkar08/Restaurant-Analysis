@@ -1,5 +1,5 @@
-# 🍽️ **Restaurant Sales Analysis Dashboard – Power BI & SQL**  
-📊 **Power BI | SQL | Data Visualization | Business Intelligence**  
+# 🍽️ **Restaurant Sales Analysis Using Power BI & SQL**  
+📊 **Power BI | SQL | Data Visualization**  
 
 ---
 
