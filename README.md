@@ -17,7 +17,6 @@ Using **SQL & Power BI**, we analyze:
 
 ## 🔥 **Key Business Insights**  
 ✔ **Total Orders:** **12.23K**  
-✔ **Total Revenue:** **$125K**  
 ✔ **Top-Selling Item:** **Hamburger 🍔**  
 ✔ **Peak Sales Hour:** **12 PM - 2 PM**  
 ✔ **Most Ordered Combo:** **Hamburger & Edamame 🥗**  
